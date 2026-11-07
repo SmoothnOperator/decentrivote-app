@@ -2,6 +2,8 @@
 
 **DecentriVote** is a modern, decentralized electronic voting web application designed for transparent, tamper-proof, and privacy-preserving elections. Built with React, Vite, Tailwind CSS, and Three.js, it provides an interactive interface for casting votes, tracking blockchain blocks, and verifying cryptographic ballot receipts.
 
+🌐 **Live Demo Website:** [https://smoothnoperator.github.io/decentrivote-app/](https://smoothnoperator.github.io/decentrivote-app/)
+
 ---
 
 ## ✨ Features
